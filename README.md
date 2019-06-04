@@ -1,6 +1,13 @@
 # CustomToast
 Aura Component for Custom Toast
 
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+<br/>
+<br/>
+
 ![CustomToast1](https://user-images.githubusercontent.com/26574291/58906788-b76edf80-86da-11e9-9ab2-8bf20ef1c81f.png)
 
 Aura Component without any buttons, that is used to display Toast notifications on the top of the page. You can specify the Totast title, the ToasT Text, the Totast Type, the Toast Mode, and the Toast Duration, all using attrinutes that are set at runtime. 

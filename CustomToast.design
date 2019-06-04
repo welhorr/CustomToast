@@ -1,0 +1,7 @@
+<design:component >
+    <design:attribute name="title" label="Toast Title" />
+    <design:attribute name="message" label="Toast Message" />
+    <design:attribute name="type" label="Toast Type" datasource="error,success,warning,info,other" description="Choose the type - error,warning,success,info,other"/>
+    <design:attribute name="mode" label="Toast Mode" datasource="dismissible,pester,sticky"/>
+    <design:attribute name="duration" label="Toast Duration" description="Set the time, for example: 10000 for 10 seconds" />
+</design:component>
